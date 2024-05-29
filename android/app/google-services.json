@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989549334771",
+    "project_id": "mamma-magic-e31f7",
+    "storage_bucket": "mamma-magic-e31f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989549334771:android:35122c154ae78f92e92786",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRx58irnDjDTlDhikXq5zmx2mq170YNEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
